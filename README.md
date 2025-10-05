@@ -1,4 +1,4 @@
-# My-first
+# My-best
 # Supermarket Sale (simple POS)
 
 A minimal Python supermarket sale / inventory + checkout demo using Flask + SQLite.
