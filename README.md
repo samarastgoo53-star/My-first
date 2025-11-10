@@ -15,7 +15,6 @@ POST JSON list to `/checkout`:
 import json
 import sqlite3
 from pathlib import Path
-
 DB = Path(__file__).parent / "supermarket.db"
 
 def list_products(conn):
